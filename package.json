@@ -1,0 +1,43 @@
+{
+  "name": "jsrubi",
+  "description": "rubika bot api Make a very simple Rubika robot",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "buffer-image-size": "^0.6.4",
+    "crypto-js": "^4.1.1",
+    "node-rsa": "^1.1.1",
+    "sync-request": "^6.1.0",
+    "ws": "^8.13.0",
+    "cli-color": "^2.0.3",
+    "prompt-sync": "^4.2.0",
+    "audio-meta": "^0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TechCode",
+  "license": "ISC",
+  "version": "1.3.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techcodeofficial/jsrubi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/techcodeofficial/jsrubi/issues"
+  },
+  "homepage": "https://github.com/techcodeofficial/jsrubi#readme",
+  "keywords": [
+    "api",
+    "rubika api",
+    "Rubika",
+    "iranian messager",
+    "make bot",
+    "bot api",
+    "requests",
+    "cryptography"
+  ]
+}
